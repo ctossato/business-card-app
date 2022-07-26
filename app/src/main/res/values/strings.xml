@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">businessCard</string>
+    <string name="tv_title">Business cards</string>
+    <string name="cd_btn_add_business_card">Add a business card</string>
+    <string name="label_new_business_card">New business card</string>
+    <string name="label_name">Name</string>
+    <string name="label_share">Share your business card</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="msg_cancelled">Cancelled</string>
+    <string name="msg_card_delete">business card will be deleted permanently</string>
+    <string name="msg_title_bcard_delete">Delete business card</string>
+    <string name="msg_error_illegal_color">Illegal Color. Inserted using white background</string>
+    <string name="msg_business_card_saved">Card image salved successfully</string>
+    <string name="label_telephone_number">Telephone Number</string>
+    <string name="label_email">E-Mail</string>
+    <string name="label_company">Company</string>
+    <string name="label_color">Color</string>
+    <string name="btn_confirm">Confirm</string>
+</resources>
